@@ -59,7 +59,7 @@ This repository focuses on:
 
 ---
 
-## ✨ Why Learn the Java Collections Framework?
+## 💡 Why Learn the Java Collections Framework?
 
 - 🚀 **Productivity Boost**: Provides ready-to-use implementations of data structures.
 - 🛡️ **Reliability**: Reduces errors by offering well-tested code.
@@ -68,7 +68,7 @@ This repository focuses on:
 
 ---
 
-## 🙌 Contribution
+## 🔧 Contribution
 
 Contributions are welcome! 🎉 If you find a bug or have an idea for improvement, feel free to open an issue or submit a pull request.
 
@@ -78,4 +78,4 @@ Contributions are welcome! 🎉 If you find a bug or have an idea for improvemen
 
 Feel free to reach out if you have any questions or feedback:
 - **Email**: [blidi.ilyas19@gmail.com](mailto:your-email@example.com)
-- **GitHub**: [your-username](https://github.com/IlyasBlidi)
+- **GitHub**: [IlyasBlidi](https://github.com/IlyasBlidi)
